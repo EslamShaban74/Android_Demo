@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مثال1</string>
+    <string name="phone_text">الهاتف</string>
+    <string name="message_text">الرساله</string>
+    <string name="next_text_btn">التالي</string>
+    <string name="close_text_btn">اغلاق</string>
+    <string name="back_txt_btn">رجوع</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Demo</string>
+    <string name="phone_text">Phone</string>
+    <string name="message_text">Message</string>
+    <string name="next_text_btn">Next</string>
+    <string name="close_text_btn">Close</string>
+    <string name="back_txt_btn">Back</string>
+</resources>
