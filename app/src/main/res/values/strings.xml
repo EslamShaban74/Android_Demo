@@ -5,4 +5,7 @@
     <string name="next_text_btn">Next</string>
     <string name="close_text_btn">Close</string>
     <string name="back_txt_btn">Back</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="count_txt_btn">Count</string>
 </resources>

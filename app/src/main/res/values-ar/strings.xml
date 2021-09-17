@@ -6,5 +6,7 @@
     <string name="next_text_btn">التالي</string>
     <string name="close_text_btn">اغلاق</string>
     <string name="back_txt_btn">رجوع</string>
+    <string name="hello_blank_fragment">فراجمنت فارغه</string>
+    <string name="count_txt_btn">عد</string>
 
 </resources>
